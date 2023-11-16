@@ -12,23 +12,13 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+My initial attempt at intricate page movement and precise timing, implemented in React.js with HTML, CSS, and JS. The result is a contemporary page featuring numerous components and dynamic elements.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![1](https://github.com/vperovicc/ModernUXUI/assets/80456478/caa9fafd-495d-489d-a343-38261f268d1b)
+![2](https://github.com/vperovicc/ModernUXUI/assets/80456478/9a5ba7ba-cdd8-40ae-bd85-49c4418f83f5)
+![3](https://github.com/vperovicc/ModernUXUI/assets/80456478/d522f8d3-4219-4eb6-89fd-88ad2b4fb39c)
+![4](https://github.com/vperovicc/ModernUXUI/assets/80456478/e157bb44-8187-4732-b412-e8fd3ae738e0)
+![5](https://github.com/vperovicc/ModernUXUI/assets/80456478/7d72ddad-46bd-4849-9225-953b0045c248)
+![6](https://github.com/vperovicc/ModernUXUI/assets/80456478/84dfbc5f-f1aa-4b51-ae80-23aaf2303291)
+![7](https://github.com/vperovicc/ModernUXUI/assets/80456478/411e8eed-ffc4-4fda-869f-dd66efcc31d7)
+![8](https://github.com/vperovicc/ModernUXUI/assets/80456478/e682c01a-8546-4dca-887b-5dac9d8e482c)
